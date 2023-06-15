@@ -23,7 +23,7 @@ public:
 
 		cout << endl;
 		cout << element << " Ditambahkan (Pushed)" << endl;
-		return;
+		return element;
 	}
 
 	void pop() {
